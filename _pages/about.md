@@ -39,7 +39,7 @@ Co-author papers
 
 5. Li, J., Zhao, H., **Yue, W.**, Fu, Y., Shi, D., Fan, A., Yang, Y., & Yan, B. (2025). “PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.” 2025 Design, Automation & Test in Europe Conference & Exhibition.
 
-6. Fu, Y., Fan, A., **Yue, W.**, Zhao, H., Shi, D., Wu, Q., Li, J., Zhang, X., Tao, Y., Yang, Y., & Yan, B. (2025). “PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference.” IEEE International Symposium on High-Performance Computer Architecture, 2025.
+6. Fu, Y., Fan, A., **Yue, W.**, Zhao, H., Shi, D., Wu, Q., Li, J., Zhang, X., Tao, Y., Yang, Y., & Yan, B. (2025). “PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference.” IEEE International Symposium on High-Performance Computer Architecture.
 
 Services
 ======
