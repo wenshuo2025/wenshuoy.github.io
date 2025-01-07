@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenshuo Yue / PhD Candidate"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Wenshuo Yue"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wenshuo Yue"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate at Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/wenshuo-yue-6462392a2/"
+  linkedin         : "linkedin.com/in/wenshuo-yue-6462392a2"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
