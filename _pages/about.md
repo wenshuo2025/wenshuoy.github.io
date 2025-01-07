@@ -7,26 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a fourth-year Ph.D. student in the Institute for Artificial Intelligence, Peking University, advised by Prof. Yuchao Yang and Prof. Bonan Yan. I received B.S. at Peking University in 2021.
 
 Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research interests 
 
 Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+First-author papers
+------
+1. **Yue, W.**#, Zhang, T.#, Jing, Z., Wu, K., Yang, Y., Yang, Z., ... & Yang, Y. (2024). A scalable universal Ising machine based on interaction-centric storage and compute-in-memory. Nature Electronics, 7(10), 904-913.
+
+2. **Yue, W.**, Wu, K., Li Z, Zhou, J., Wang, Z., Zhang, T., ...Yang, Y. (2025). Physical Unclonable In-Memory Computing for Simultaneous Protecting Private Data and Deep Learning Models. Nature Communications (Accepted).
+
+3. Yang, Z.#, **Yue, W.**#, Liu, C., Tao, Y., Tiw, P. J., Yan, L., ... & Yang, Y. (2024). Fully Hardware Memristive Neuromorphic Computing Enabled by the Integration of Trainable Dendritic Neurons and High‐Density RRAM Chip. Advanced Functional Materials, 2405618.
+
+4. **Yue, W**., Jing, Z., Yan, B., Tao, Y., Zhang, T., Huang, R., & Yang, Y. (2024, March). Multifunctional RRAM Chip with Configurability for Sparsity-Aware in-Memory ISNG Machine. In 2024 Conference of Science and Technology for Integrated Circuits (CSTIC) (pp. 1-3). IEEE.
+
+5. **Yue, W.**, & Yang, J. (2020). Effect of sea-ice drift on the onset of snowball climate on rapidly rotating aqua-planets. The Astrophysical Journal Letters, 898(1), L19.
+
+Co-author papers
+------
+1. Yan, B., Hsu, J. L., Yu, P. C., Lee, C. C., Zhang, Y., **Yue, W**., ... & Huang, R. (2022, February). A 1.041-mb/mm 2 27.38-tops/w signed-int8 dynamic-logic-based adc-less sram compute-in-memory macro in 28nm with reconfigurable bitwise operation for ai and embedded applications. In 2022 IEEE International Solid-State Circuits Conference (ISSCC) (Vol. 65, pp. 188-190). IEEE.
+
+2. Liu, C., Tiw, P. J., Zhang, T., Wang, Y., Cai, L., Yuan, R., Pan, Z., **Yue, W.**, ... & Yang, Y. (2024). VO2 memristor-based frequency converter with in-situ synthesize and mix for wireless internet-of-things. Nature Communications, 15(1), 1523.
+
+3. Fu, Y., Shi, D., Fan, A., **Yue, W.**, Yang, Y., Huang, R., & Yan, B. (2023). Probabilistic Compute-in-Memory Design for Efficient Markov Chain Monte Carlo Sampling. IEEE Transactions on Circuits and Systems I: Regular Papers.
+
+4. Cai, L., Yu, L., **Yue, W.**, Zhu, Y., Yang, Z., Li, Y., ... & Yang, Y. (2023). Integrated memristor network for physiological signal processing. Advanced Electronic Materials, 9(6), 2300021.
+
+5. Li, J., Zhao, H., **Yue, W.**, Fu, Y., Shi, D., Fan, A., Yang, Y., & Yan, B. “PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.” 2025 Design, Automation & Test in Europe Conference & Exhibition, 2025.
+
+6. Fu, Y., Fan, A., **Yue, W.**, Zhao, H., Shi, D., Wu, Q., Li, J., Zhang, X., Tao, Y., Yang, Y., & Yan, B. “PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference.” 2025 IEEE International Symposium on High-Performance Computer Architecture, 2025.
 
 Services
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+======
+Official Reviewer of DAC and AICAS.
 
 
 
