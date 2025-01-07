@@ -15,6 +15,7 @@ During my PhD, I focus on the compute-in-memory (CIM) technology based on emergi
 
 Publications
 ======
+
 First-author papers
 ------
 1. **Yue, W.**#, Zhang, T.#, Jing, Z., Wu, K., Yang, Y., Yang, Z., ... & Yang, Y. (2024). A scalable universal Ising machine based on interaction-centric storage and compute-in-memory. **Nature Electronics**, 7(10), 904-913.
