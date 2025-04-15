@@ -11,7 +11,7 @@ I am a fourth-year Ph.D. student in the Institute for Artificial Intelligence, P
 
 Interests
 ======
-During my PhD, I focus on the compute-in-memory (CIM) technology based on emerging resistive memory. I independently designed and tested an RRAM-based CIM chip. Moreover, I devote myself to novel architecture for scalable and efficient edge computing.
+My research focuses on emerging memory design, novel hardware accelerators, neuromorphic computing, and efficient graph processing. I have published 12 papers, including 5 as the first or co-first author, in top-tier journals such as \textbf{Nature Electronics} (IF=33.7) and \textbf{Nature Communications} (IF=14.7). With a strong foundation in both industry and academia, I interned at a startup, where I independently tested and validated the functionality of an SRAM-based in-memory computing chip. During my time at university, I designed, taped out, and successfully tested an RRAM-based in-memory computing chip from scratch, demonstrating my ability to independently lead complex hardware projects.
 
 Publications
 ======
