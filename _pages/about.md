@@ -20,7 +20,7 @@ First-author papers
 ------
 1. **Yue, W.**#, Zhang, T.#, Jing, Z., Wu, K., Yang, Y., Yang, Z., ... & Yang, Y. (2024). A scalable universal Ising machine based on interaction-centric storage and compute-in-memory. **Nature Electronics**, 7(10), 904-913.
 
-2. **Yue, W.**, Wu, K., Li Z, Zhou, J., Wang, Z., Zhang, T., ...Yang, Y. (2025). Physical Unclonable In-Memory Computing for Simultaneous Protecting Private Data and Deep Learning Models. Nature Communications (Accepted).
+2. **Yue, W.**, Wu, K., Li Z, Zhou, J., Wang, Z., Zhang, T., ...Yang, Y. (2025). Physical Unclonable In-Memory Computing for Simultaneous Protecting Private Data and Deep Learning Models. Nature Communications, 16(1), 1031.
 
 3. Yang, Z.#, **Yue, W.**#, Liu, C., Tao, Y., Tiw, P. J., Yan, L., ... & Yang, Y. (2024). Fully Hardware Memristive Neuromorphic Computing Enabled by the Integration of Trainable Dendritic Neurons and High‐Density RRAM Chip. Advanced Functional Materials, 2405618.
 
@@ -40,9 +40,9 @@ Co-author papers
 
 5. Li, J., Zhao, H., **Yue, W.**, Fu, Y., Shi, D., Fan, A., ... & Yan, B. (2024). FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework. In NeurIPS 2024 Workshop on Open-World Agents.
 
-6. Li, J., Zhao, H., **Yue, W.**, Fu, Y., Shi, D., Fan, A., Yang, Y., & Yan, B. (2025). “PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.” 2025 Design, Automation & Test in Europe Conference & Exhibition.
+6. Li, J., Zhao, H., **Yue, W.**, Fu, Y., Shi, D., Fan, A., Yang, Y., & Yan, B. (2025). “PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments.” 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE).
 
-7. Fu, Y., Fan, A., **Yue, W.**, Zhao, H., Shi, D., Wu, Q., Li, J., Zhang, X., Tao, Y., Yang, Y., & Yan, B. (2025). “PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference.” IEEE International Symposium on High-Performance Computer Architecture.
+7. Fu, Y., Fan, A., **Yue, W.**, Zhao, H., Shi, D., Wu, Q., Li, J., Zhang, X., Tao, Y., Yang, Y., & Yan, B. (2025). “PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference.” IEEE International Symposium on High-Performance Computer Architecture (HPCA) (pp. 761-774).
 
 Services
 ======
