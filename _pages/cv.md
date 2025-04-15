@@ -18,13 +18,11 @@ Work experience
 ======
 * Summer 2021: Testing Engineer
   * Pimchip Technology
-  * Duties includes: 
-  * Supervisor: Dr. Yaojun Zhang
+  * Duties: I designed a custom printed circuit board (PCB) for a commercial compute-in-memory chip and managed the chip testing plan. I successfully tested the targeted function, realized high energy efficiency on the chip, and assisted in writing the paper for ISSCC.
 
 * Summer 2020: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Carnegie Mellon University
+  * Duties included: I developed simulation models on COMSOL for 2D material devices and memristive devices, and evaluated the models with applications. 
 
 
 Skills
