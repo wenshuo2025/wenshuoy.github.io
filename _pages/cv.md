@@ -22,7 +22,7 @@ Work experience
 
 * Summer 2020: Research Assistant
   * Carnegie Mellon University
-  * Duties included: I developed simulation models on COMSOL for 2D material devices and memristive devices, and evaluated the models with applications. 
+  * Duties: I developed simulation models on COMSOL for 2D material devices and memristive devices, and evaluated the models with applications. 
 
 
 Skills
