@@ -11,7 +11,7 @@ I am a fourth-year Ph.D. student in the Institute for Artificial Intelligence, P
 
 Interests
 ======
-My research focuses on emerging memory design, novel hardware accelerators, neuromorphic computing, and efficient graph processing. I have published 12 papers, including 5 as the first or co-first author, in top-tier journals such as **Nature Electronics** (IF=33.7) and **Nature Communications** (IF=14.7). With a strong foundation in both industry and academia, I interned at a startup, where I independently tested and validated the functionality of an SRAM-based in-memory computing chip. During my time at university, I designed, taped out, and successfully tested an RRAM-based in-memory computing chip from scratch, demonstrating my ability to independently lead complex hardware projects.
+My research focuses on emerging memory design, novel hardware accelerators, neuromorphic computing, and efficient graph processing. I have 13 published/accepted papers, including 6 as the first or co-first author, in top-tier journals and conferences such as **Nature Electronics** (IF=33.7) and **Nature Communications** (IF=14.7). With a strong foundation in both industry and academia, I interned at a startup, where I independently tested and validated the functionality of an SRAM-based in-memory computing chip. During my time at university, I designed, taped out, and successfully tested an RRAM-based in-memory computing chip from scratch, demonstrating my ability to independently lead complex hardware projects.
 
 Publications
 ======
@@ -22,11 +22,13 @@ First-author papers
 
 2. **Yue, W.**, Wu, K., Li Z, Zhou, J., Wang, Z., Zhang, T., ...Yang, Y. (2025). Physical Unclonable In-Memory Computing for Simultaneous Protecting Private Data and Deep Learning Models. Nature Communications, 16(1), 1031.
 
-3. Yang, Z.#, **Yue, W.**#, Liu, C., Tao, Y., Tiw, P. J., Yan, L., ... & Yang, Y. (2024). Fully Hardware Memristive Neuromorphic Computing Enabled by the Integration of Trainable Dendritic Neurons and High‐Density RRAM Chip. Advanced Functional Materials, 2405618.
+3. **Yue, W.**, Jing, Z., Ye, L., Xiao, T., ..., Yan, B., and Yang, Y. (2025). A 40nm 48.7F2/bit 1T2R Resistive Memory Bitcell Array For Adaptive Vector-Symbolic In-Memory Computing (accepted). In 2025 European Solid-State Electronics Research Conference (ESSERC), IEEE.
 
-4. **Yue, W**., Jing, Z., Yan, B., Tao, Y., Zhang, T., Huang, R., & Yang, Y. (2024, March). Multifunctional RRAM Chip with Configurability for Sparsity-Aware in-Memory ISNG Machine. In 2024 Conference of Science and Technology for Integrated Circuits (CSTIC) (pp. 1-3). IEEE.
+4. Yang, Z.#, **Yue, W.**#, Liu, C., Tao, Y., Tiw, P. J., Yan, L., ... & Yang, Y. (2024). Fully Hardware Memristive Neuromorphic Computing Enabled by the Integration of Trainable Dendritic Neurons and High‐Density RRAM Chip. Advanced Functional Materials, 2405618.
 
-5. **Yue, W.**, & Yang, J. (2020). Effect of sea-ice drift on the onset of snowball climate on rapidly rotating aqua-planets. The Astrophysical Journal Letters, 898(1), L19.
+5. **Yue, W**., Jing, Z., Yan, B., Tao, Y., Zhang, T., Huang, R., & Yang, Y. (2024, March). Multifunctional RRAM Chip with Configurability for Sparsity-Aware in-Memory ISNG Machine. In 2024 Conference of Science and Technology for Integrated Circuits (CSTIC) (pp. 1-3). IEEE.
+
+6. **Yue, W.**, & Yang, J. (2020). Effect of sea-ice drift on the onset of snowball climate on rapidly rotating aqua-planets. The Astrophysical Journal Letters, 898(1), L19.
 
 Co-author papers
 ------
