@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in the Institute for Artificial Intelligence, Peking University, advised by Prof. Yuchao Yang and Prof. Bonan Yan. I received B.S. at Peking University in 2021.
+I am a fifth-year Ph.D. student in the Institute for Artificial Intelligence, Peking University, advised by Prof. Yuchao Yang and Prof. Bonan Yan. I received B.S. at Peking University in 2021.
 
 Interests
 ======
