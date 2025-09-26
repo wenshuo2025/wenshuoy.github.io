@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Microelectronics, Peking University, 2026 (expected)
-* B.S. in Atmospheric and Oceanic Science, Peking University, 2021
+* B.S. in Atmospheric Science, Peking University, 2021
 
 Work experience
 ======
